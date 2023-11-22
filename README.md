@@ -1,7 +1,8 @@
 # Road-Accident-Analytics-Dashboard-
 ![Road accident project pic](https://github.com/ravirajiitm/Road-Accident-Analytics-Dashboard-/assets/110409857/8c39cc77-7965-455b-9bb0-ede5a1da70dc)
 
-## Overview
+## Overview![Road accident project pic](https://github.com/ravirajiitm/Road-Accident-Analytics-Dashboard-/assets/110409857/663af053-6531-4ebe-923d-163e5519ff34)
+
 
 
 This repository hosts a comprehensive road accident analytics dashboard project designed to provide insights into road accidents for the years 2021 and 2022. The dashboard covers primary Key Performance Indicators (KPIs) such as total casualties, accident severity, vehicle types, monthly trends, road types, road surfaces, and their correlation with location and day-night conditions.
