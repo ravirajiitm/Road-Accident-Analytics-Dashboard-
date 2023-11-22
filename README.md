@@ -1,5 +1,4 @@
 # Road-Accident-Analytics-Dashboard-
-![Road accident project pic](https://github.com/ravirajiitm/Road-Accident-Analytics-Dashboard-/assets/110409857/8c39cc77-7965-455b-9bb0-ede5a1da70dc)
 
 ## Overview![Road accident project pic](https://github.com/ravirajiitm/Road-Accident-Analytics-Dashboard-/assets/110409857/663af053-6531-4ebe-923d-163e5519ff34)
 
